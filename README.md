@@ -27,7 +27,7 @@ Nesta primeira fase, realizamos a modelagem e análise de um sistema de e-commer
 
 ## 🖼️ Apresentação Visual
 
-> ![Apresentação do projeto](./ecommerce-esportivo-fase1.png)
+📄 [Clique aqui para visualizar o documento completo do projeto (PDF)](./E-commerce-Esportivo-Fase-01_compressed.pdf)
 
 ---
 
